@@ -112,3 +112,17 @@ export const contactIntro={
   gif:"/images/wallpaper.png",
   durationMs:4000,
 };
+
+export const projetsPersoPage = {
+  windowTitle: "Projets perso - David",
+  label: "PROJETS PERSO / QUÊTES SECONDAIRES",
+  title: "Les quêtes secondaires.",
+  text: "Ce aue je construis pour le plaisir"
+};
+
+export const projetsLdnrPage={
+  windowTitle: "Projets LDNR - David",
+  label: "PROJETS LDNR / QUÊTES PRINCIPALES",
+  title: "Les missions de formations.",
+  text: "Les projets réalisés pendant ma formation",
+}
